@@ -271,3 +271,14 @@ img{
         width:25vw;
       }
 }
+
+@media screen and (max-width:768px) and (min-height:579px){
+    .mobile-adjust-container{
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .centre-move-btn{
+        margin-top:20px;
+    }
+}
