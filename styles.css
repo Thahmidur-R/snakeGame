@@ -45,6 +45,9 @@ padding-top:10px;
 
 }
 
+a {
+    color: inherit; 
+  }
 .playBtn-container{
     margin-top:50px;
      display:flex;
